@@ -2,11 +2,21 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-a {
+a, h4 {
     color: green;
 }
 
 h1 {
     color: blue;
+}
+
+.ingredient {
+    background-color: aqua;
+}
+
+#header {
+    background-color: cyan;
+    color: white;
+    text-align: center;
 }
 
